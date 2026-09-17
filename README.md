@@ -24,8 +24,6 @@ Trabalho em andamento.
 
 ## Como rodar
 
-## Como rodar
-
 Instale as dependências:
 
 ```
